@@ -22,6 +22,7 @@
 * [Code Academy - Intro to JS](https://www.codecademy.com/learn/introduction-to-javascript)
 * [CSX - Learn JS](https://csx.codesmith.io/)
 * [JavaScript.info - The Modern JavaScript Tutorial](https://javascript.info/)
+* [Introduction to Professional Web Development in JavaScript (Independent Track)](https://education.launchcode.org/intro-to-professional-web-dev/index.html)
 
 # Online Lessons
 
@@ -88,6 +89,7 @@
 * [Learn X in Y Minutes](https://learnxinyminutes.com/)
   * Get up to speed quickly with a new programming language.
   * Has examples of commonly used syntax in a given language.
+* [WesBos JavaScript Notes & Reference](https://wesbos.com/javascript)
 
 # YouTube Content Creators
 
