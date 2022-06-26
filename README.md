@@ -100,6 +100,10 @@
 * [Dev YouTube List](https://github.com/ErikCH/DevYouTubeList)
   * List of Development YouTube Channels
 
+# Learning How To Learn / Self Teaching
+
+* [Evidence-based revision - Active Recall](https://youtu.be/ukLnPbIffxE)
+* [Evidence-based revision - Spaced Repetition](https://youtu.be/Z-zNHHpXoMM)
 
 # TODO
 
